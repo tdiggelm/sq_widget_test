@@ -1,0 +1,3 @@
+return Pages.Base.extend({
+
+});
